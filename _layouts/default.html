@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="eng" lang="en-us">
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <title>Eindhoven.rb - {{ page.title }}</title>
+  <meta name='author' content='The Eindhoven.rb Team' />
+  <link rel='stylesheet' href='/css/eindhovenrb.css' />
+  <link rel='shortcut icon' type='image/x-icon' href='/images/favicon.ico' />
+  <link rel='apple-touch-icon' href='/images/apple-touch-icon.png' />
+  <link rel='apple-touch-icon' sizes='72x72' href='/images/apple-touch-icon-72x72.png' />
+  <link rel='apple-touch-icon' sizes='114x114' href='/images/apple-touch-icon-114x114.png' />
+  <meta name='viewport' content='width=device-width; initial-scale=1; maximum-scale=1; user-scalable=1;' />
+  <script type='text/javascript' src='http://use.typekit.com/exu3bmg.js' />
+  <script type='text/javascript'>
+    try { Typekit.load(); } catch(e) {}
+  </script>
+</head>
+
+<body>
+  <div id="page">
+    <header role='banner'>
+      <hgroup>
+        <h1><a href='/' class='logo'>:eindhoven<span class='extension'>.rb</span></a></h1>
+        <h2 class='tagline'># The monthly meetup for Ruby(-curious) developers in and around Eindhoven</h2>
+    </header>
+    <section id='content'>
+      <section role='main'>
+        {{ content }}
+      </section>
+      {% include sidebar.html %}
+    </section>
+    {% include footer.html %}
+  </div>
+</body>
+</html>
