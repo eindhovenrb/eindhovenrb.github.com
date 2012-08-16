@@ -1,3 +1,2 @@
 pygments: true
-markdown: rdiscount
 exclude: Gemfile Gemfile.lock
