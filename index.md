@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eindhoven.rb, the monthly user group meetup for Rubyists in the Eindhoven region
+title: The monthly user group meetup for Rubyists in the Eindhoven region
 ---
 
 Eindhoven.rb is a **social gathering**. The goal is to meet other [Ruby][]-lovin' folk and talk about current developments, hip tools and everything else. There's room to showcase your own open-source projects, or find help for your pet project. We meet at [The Trafalgar Pub][map] every **first thursday of the month**.
@@ -11,9 +11,9 @@ Eindhoven.rb is a **social gathering**. The goal is to meet other [Ruby][]-lovin
 
 ## Latest news
 
-### Upcoming meet up #8 *August 2, 2012*
+### Next meet-up: September 6, 2012
 
-From around 19:30 we'll have a room to ourselves at Trafalgar Pub again. Please drop by and meet your fellow Ruby devs!
+From around 19:30 we'll have a room to ourselves at Trafalgar Pub again. Please drop by and meet your fellow Ruby devs! Bring your Mac if you feel like.
 
 [![alt='trafalgar pub'](/images/trafalgar_map.png)](http://www.openstreetmap.org/?lat=51.441089&lon=5.481117&zoom=18&layers=M)
 
